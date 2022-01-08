@@ -1,0 +1,16 @@
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csprojAssemblyReference.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
