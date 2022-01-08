@@ -1,0 +1,16 @@
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.exe
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.deps.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.dev.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\ref\donguler-for-loop.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csprojAssemblyReference.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\ref\donguler-for-loop.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.genruntimeconfig.cache
