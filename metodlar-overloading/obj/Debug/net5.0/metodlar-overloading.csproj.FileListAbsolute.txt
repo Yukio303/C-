@@ -1,0 +1,16 @@
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.exe
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.deps.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.runtimeconfig.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.runtimeconfig.dev.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\ref\metodlar-overloading.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.csprojAssemblyReference.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\ref\metodlar-overloading.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.genruntimeconfig.cache
