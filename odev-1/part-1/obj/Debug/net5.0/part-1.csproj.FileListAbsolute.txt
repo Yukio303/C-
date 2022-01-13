@@ -1,0 +1,16 @@
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\part-1.exe
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\part-1.deps.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\part-1.runtimeconfig.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\part-1.runtimeconfig.dev.json
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\part-1.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\ref\part-1.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\bin\Debug\net5.0\part-1.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.csprojAssemblyReference.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.AssemblyInfoInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.AssemblyInfo.cs
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.csproj.CoreCompileInputs.cache
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\ref\part-1.dll
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.pdb
+C:\Users\KEREM\Desktop\Kurslar\Patika kursları\C#\odev-1\part-1\obj\Debug\net5.0\part-1.genruntimeconfig.cache
